@@ -33,17 +33,21 @@ $reponses =array("Esther 8:9","2 Samuel 17:18,19","Jérémie 38:6","Actes 23:12-
 "Jérémie 8:1-2","2 Rois 17:24-26","Jonas 3:6-8","Zacharie 3:1","Apocalypse 16:13","2 Samuel 14:1-6","Apocalypse 12:16","Nombres 16:32","Actes 16:26","2 Thessaloniciens 3:11-12 ; 1 Pierre 4:15","Juges 16:16","Jérémie 46:20","Genèse 16:1-3,11-12 ; 21:9-21","2 Samuel 4:4 ; 9:13","Genèse 19:30","1 Samuel 22:1","Jean 11:17,38","Jérémie 9:11 ; 10:22 ; 49:33 ; 51:37","2 Rois 25:6-7","Jude 14","Ésaïe 21:7","Luc 14:28","Genèse 36:24","Juges 14:5-6 ; 1 Samuel 17:36 ; 2 Samuel 23:20","2 Timothée 3:8","2 Samuel 13:29","Jérémie 52:31-34","Genèse 20:7","Actes 3:15","Ézéchiel 25:5",
 "Psaumes 80:13","Genèse 29:34 ; 30:21 ; ch. 34","Colossiens 4:6","Apocalypse 13:17","Ésaïe 17:10-11","Juges 8:7,16","2 Samuel 23:9-10","Jérémie 51:20","Jérémie 23:29","Nombres 23:14","2 Rois 17:4","Joël 1:12","Luc 21:25","Jonas 2:6","Exode 4:27","Exode 18:7","Genèse 26:34-35","2 Pierre 2:7-8","Jérémie 41:2-9","Genèse 24:65","Hébreux 9:16-17","Exode 18:13-24","Joël 2:17","Jérémie 50:38","Malachie 3:8-9","Genèse 19:10-11","Exode 19:14","Exode 23:14-16 ; 34:22","2 Chroniques 22:11 ; 24:15","Apocalypse 21:16","2 Jean 11");
 
-$booksmall = array("Ge","Ex","Le","Nu","De","Jos","Ju","Ru","1S","2S","1K","2K","1Chr","2Chr","Ezr","Ne","Est","Jb","Ps","Pr","Ec","Song","Song","Song","Is","Je","La","Ez","Da","Ho","Joel","Am","Obad","Jona","Mi","Na","Ha","Zeph","Hagg","Zech","Ma","Mt","Mak","Lk","Jn","Ac","Ro","1Co","2Co","Ga","Ep","Phl","Co","1Th","2Th","1Ti","2Ti","Tit","Phm","He","Ja","1Pe","2Pe","1Jhn","2Jhn","3Jhn","Jude","Re");
-$bookfench = array("genese","exode","levitique","nombres","deuteronome","josue","juges","ruth","1samuel","2samuel","1rois","2rois","1chroniques","2chroniques","esdras","nehemie","esther","job","psaumes","proverbes","ecclesiaste","cantiquedescantiques","cantique","cantiques","esaie","jeremie","lamentations","ezechiel","daniel","osee","joel","amos","abdias","jonas","michee","nahum","habacuc","sophonie","aggee","zacharie","malachie","matthieu","marc","luc","jean","actes","romains","1corinthiens","2corinthiens","galates","ephesiens","philippiens","colossiens","1thessaloniciens","2thessaloniciens","1timothee","2timothee","tite","philemon","hebreux","jacques","1pierre","2pierre","1jean","2jean","3jean","jude","apocalypse");
+$trivia_anecdotes_q = array("Dans quelle ville est né Jésus? ","Combien de livres y a-t-il dans le Nouveau Testament? ","Quel type d'insecte Jean-Baptiste a-t-il mangé dans le désert? ","Qui ont été les premiers apôtres appelés à suivre Jésus? ","Combien de personnes Jésus a-t-il nourri avec cinq miches de pain et deux poissons? ","Après l'arrestation de Jésus, quel apôtre l'a renié trois fois? ","Qui a reconnu Jésus comme le Messie quand il a été présenté au Temple comme un bébé? ","Qui a demandé à Pilate le corps de Jésus après la crucifixion? ","Paul a fait naufrage sur quelle île? ","Quel est le livre le plus court du Nouveau Testament? ","Qui est l'auteur du livre de l'Apocalypse? ","Matthieu était un _________. ","Dans quelle ville Saul voyageait-il lorsqu'il rencontra une grande lumière aveuglante? ","Qui a été la première personne à tomber sur l'homme blessé dans la parabole du Bon Samaritain? ","Terminez ce verset. 'Dans chaque bataille, vous aurez besoin de la foi comme ______ pour arrêter les flèches enflammées que Satan vous vise.' ","Dont l'exemple Paul dit-il que les chrétiens devraient suivre dans le chapitre 5 d'Ephésiens? ","Après que Jésus ait nourri plus de 5 000 personnes avec deux poissons et cinq miches de pain, combien de paniers restaient-ils? ","Qu'est-ce que Paul dit peut 'abonder de plus en plus en connaissance et en jugement?' ","De quelle tribu est Paul? ","Selon les Béatitudes, qui sera comblé? ","Que fait Simon Pierre pour vivre avant de devenir apôtre? ","Dans l'Évangile de Marc, comment la Vierge Marie apprend-elle sa grossesse? ","Qui est Etienne dans Actes des apôtres? ","Par quel nom Paul de Tarse est-il connu avant de commencer son activité missionnaire? ","Selon la formulation de Paul dans 1 Corinthiens, quelle est la plus grande des qualités impérissables? ","Qui est le grand prêtre de Jérusalem qui a jugé Jésus? ","Dans l'Évangile Selon Jean, lequel des apôtres doute de la résurrection de Jésus jusqu'à ce qu'il voie Jésus de ses propres yeux? ","Selon l'Évangile de Matthieu, où a lieu le premier sermon public de Jésus? ","Comment Judas signale-t-il l'identité de Jésus aux autorités romaines? ","Qui assassine Jean-Baptiste? ","Quand les chrétiens observent le dimanche des Rameaux, quel récit biblique célèbrent-ils? ","Selon les Évangiles, quel est le genre littéraire unique que Jésus utilise pour prêcher son message? ","Quel évangile est le plus concerné par le mystère et l'identité de la personne de Jésus? ","Qui baptise Jésus? ","Qui enlève le corps de Jésus de la croix? ","Qui est le premier apôtre à nier Jésus? ","Quel évangile est écrit par un médecin? ","Quel est le nom commun donné aux quatre premiers livres du Nouveau Testament?","Qui a écrit la plupart des livres du Nouveau Testament?","Qui a écrit les Actes des Apôtres?","Quel livre vient en dernier dans le Nouveau Testament?","Que signifie le mot évangile?","Qui était le roi de Judée au moment de la naissance de Jésus?","Quel évangile enregistre le moins de miracles accomplis par Jésus?","Dans quelle eau Jésus a-t-il été baptisé?","Quel miracle Jésus a-t-il accompli lors du mariage à Cana?","Qui était le collecteur d'impôts qui a grimpé sur un arbre pour qu'il puisse voir Jésus?","Quels sont les deux personnages de l'Ancien Testament apparus avec Jésus lors de la transfiguration?","Comment Jésus a-t-il révélé celui qui le trahirait?","Où Jésus a-t-il été crucifié?","Pendant combien de jours Jésus est-il apparu à ses disciples après sa résurrection?","Qui est parti avec Paul pour son premier voyage missionnaire?","Paul et Silas ont été emprisonnés pendant le deuxième voyage missionnaire, mais dans quelle ville est-ce arrivé?","Pendant le troisième voyage missionnaire de Paul, à peu près pendant combien de temps a-t-il exercé son ministère à l'école de Tyrannus à Éphèse?","Sur quelle île Paul a-t-il fait naufrage alors qu'il se dirigeait vers Rome?","Combien d'églises d'Asie Mineure y avait-il?","Sur quelle île se trouvait John quand on lui a donné la vision de l'Apocalypse?","Dans la Nouvelle Jérusalem décrite dans l'Apocalypse, de quoi sont faites les douze portes?","Où est né Jésus?","Pourquoi Joseph a-t-il emmené Marie et l'Enfant Jésus en Égypte?","Où Jésus a-t-il grandi après son retour d'Égypte?","Quel a été le premier miracle de Jésus?","Alors que Jésus et ses disciples traversaient la mer de Galilée dans un bateau, une grosse tempête a éclaté. Jésus a réprimandé le vent et les vagues et la tempête a disparu. Que faisait Jésus quand la tempête a éclaté?","Miraculeusement, Jésus n'a cassé que quelques miches de pain et de poisson et a nourri 5000 hommes, ainsi que des femmes et des enfants. Avec combien de pains et de poissons a-t-il commencé?","Comment Judas a-t-il identifié Jésus comme étant celui qui devait être arrêté?","Le Vendredi Saint, Jésus a été présenté à Ponce Pilate pour y être jugé. Pourquoi Ponce Pilate a-t-il condamné Jésus à mort?","Dans quelle langue était écrit la plupart du Nouveau Testament à l'origine?","Quel est le dernier livre du Nouveau Testament?","Dans quel Évangile Jésus a-t-il dit et cité: «Tout est possible pour celui qui croit.»?","Quel est le nom du père de Jean le baptiseur?","Qui a écrit Actes des apôtres?","Quel est le premier livre du Nouveau Testament?","Quel était le nom du premier chrétien lapidé à mort?","Pendant combien de jours et de nuits Jésus a-t-il été jeûné?","Quel bois a été utilisé par Noé pour construire l'arche?","Combien d'apôtres Jésus avait-il?","Quel livre raconte la visite des sages à l'enfant Jésus?","Qui a écrit le livre des Actes?","Combien de livres d'Évangile y a-t-il?","Qui a écrit le livre de l'Apocalypse?","Qui a dit: «Repentez-vous, car le Royaume des Cieux est proche»?","Combien de fois Pierre a-t-il renié Jésus?","Qui a fait naufrage dans le Nouveau Testament?","Quel livre du Nouveau Testament raconte la conversion de Paul?","Où Jésus a-t-il grandi?","Où était Paul quand il est devenu aveugle?","Combien de filles sages et folles étaient dans l'histoire de Jésus?","Qui a écrit le plus de livres dans le Nouveau Testament?","Nommez un livre qui raconte la naissance de Jésus?","Qui était le gouverneur qui a essayé Jésus?","Combien de miches de pain Jésus a-t-il utilisées pour nourrir cinq mille personnes?","Qui a dit: «Paix, sois tranquille»?","Qui a dit: «Il n'est pas ici; car Il est ressuscité »?","Qui a trahi Jésus?","Quel apôtre était percepteur d'impôts?","Qui vivait des criquets et du miel sauvage?","Qui était un aveugle guéri par Jésus?","Combien de jours Lazare est-il mort avant que Jésus le ramène à la vie?","Qui était roi de Judée à la naissance de Jésus?","Qui est venu à Jésus la nuit?","Quel ange est apparu à Marie?","Quels sont les noms des livres de l'Évangile?","Qui Jésus a-t-il appelé le «Consolateur»?","Qu'est-ce que le jeune souverain riche ne voulait pas abandonner?","De quelle maladie Jésus a-t-il guéri dix hommes?","Quel jeune garçon courageux s'est battu avec un géant appelé Goliath?","À qui Dieu a-t-il confié la tâche de construire un énorme bateau appelé une arche?","Quel était le nom de la femme mariée à l'homme le plus fort?","Qui a été avalé par une baleine?","Quel homme et quelle femme vivaient dans le jardin d'Eden?","Qui a été jeté dans une fosse aux lions par un mauvais roi?","Pouvez-vous nommer un ensemble de jumeaux?","Qui était connu comme le roi sage?","Qui était le frère cadet de Joseph?","Où est né Moïse? (Un point supplémentaire pour nommer la rivière à proximité!)","Quel «travail» David avait-il quand il était petit?","Qui était le meilleur ami de David?","Quelle était la signification de l'arc-en-ciel dans le ciel?","Quel est le premier livre de la Bible?","Quel instrument David a-t-il joué? (Un point supplémentaire pour nommer le roi pour lequel il a joué!)","Quel livre de la Bible est plein de sages paroles? Par exemple, «un fils sage réjouit son père, mais un fils insensé est un chagrin pour sa mère».","Qui a reçu les dix commandements de Dieu au sommet d'une montagne?","Qui a tué son frère?","Qui a fait un serpent de bronze?","Qu'est-ce que Dieu a créé le premier jour de la création?");
+$trivia_anecdotes_r = array("Bethléem","27","Criquets","Pierre et André","environ 5000 hommes","Pierre","Siméon","Joseph d'Arimathie","Malte","2 Jean","Jean","Receveur des impôts","Damas","Prêtre","Bouclier","Du Christ","12","Amour","Benjamin","Ceux qui ont faim et soif de justice","C'était un pêcheur","De l'ange Gabriel","Le premier martyr chrétien","Saul","Amour","Caiaphas","Thomas","Sur la monture","Il l'embrasse","Hérode Antipas","L'entrée de Jésus à Jérusalem avant sa mort","La parabole","Jean","Jean le baptiseur","Joseph d'Arimathie","Pierre","Luc","Les évangiles","Paul","Luc","Révélation","Bonnes nouvelles","Hérode le Grand","Matthieu","Jourdain","Transformer l'eau en vin","Zachée","Élie et Moïse","Trempé un morceau de pain et le lui passa","Golgotha","40","Barnabas","Philippi","2 ans","Malte","Sept","Patmos","perle","Bethléem","Pour échapper au roi Hérode, qui voulait tuer Jésus","Nazareth","Transformer l'eau en vin","En train de dormir","5 pains et 2 poissons","Il a embrassé Jésus.","Les principaux prêtres avaient persuadé la foule d'exiger son exécution.","grec","Révélation","marque","Zacharias","Luc","Matthieu","Etienne","40","Gopher","12","Matthieu","Luc","4","Jean","Jean le Baptiste","3","Paul","Actes","Nazareth","Sur la route de Damas","5 ou 10 au total","Paul","Matthieu ou Luc","Pilate","Cinq","Jésus","Un ange","Judas","Matthieu","Jean le Baptiste","Bartimée","4","Hérode","Nicodème","Gabriel","Matthieu, Marc, Luc et Jean","Le Saint-Esprit","Ses richesses","Lèpre","David","Noé","Delilah","Jonas","Adam et Eve","Daniel","Jacob et Esaü","Salomon","Benjamin","Egypte","Berger","Jonathan","La promesse de Dieu de ne plus jamais inonder la terre.","Genèse","Harpe","les proverbes","Moïse","Caïn","Moïse","Lumière");
+
+$booksmall = array("Ge","Ex","Le","Nu","De","Jos","Ju","Ru","1S","2S","1K","2K","1Chr","2Chr","Ezr","Ne","Est","Jb","Ps","Pr","Ec","Song","Song","Song","Is","Je","La","Ez","Da","Ho","Joel","Am","Obad","Jona","Mi","Na","Ha","Ha","Zeph","Hagg","Zech","Ma","Mt","Mak","Lk","Jn","Ac","Ro","1Co","2Co","Ga","Ep","Phl","Co","1Th","2Th","1Ti","2Ti","Tit","Phm","He","Ja","1Pe","2Pe","1Jhn","2Jhn","3Jhn","Jude","Re");
+$bookfench = array("genese","exode","levitique","nombres","deuteronome","josue","juges","ruth","1samuel","2samuel","1rois","2rois","1chroniques","2chroniques","esdras","nehemie","esther","job","psaumes","proverbes","ecclesiaste","cantiquedescantiques","cantique","cantiques","esaie","jeremie","lamentations","ezechiel","daniel","osee","joel","amos","abdias","jonas","michee","nahum","habacuc","habakuk","sophonie","aggee","zacharie","malachie","matthieu","marc","luc","jean","actes","romains","1corinthiens","2corinthiens","galates","ephesiens","philippiens","colossiens","1thessaloniciens","2thessaloniciens","1timothee","2timothee","tite","philemon","hebreux","jacques","1pierre","2pierre","1jean","2jean","3jean","jude","apocalypse");
 
 function skip_accents( $str, $charset='utf-8' ) {
- 
+
     $str = htmlentities( $str, ENT_NOQUOTES, $charset );
     
     $str = preg_replace( '#&([A-za-z])(?:acute|cedil|caron|circ|grave|orn|ring|slash|th|tilde|uml);#', '\1', $str );
     $str = preg_replace( '#&([A-za-z]{2})(?:lig);#', '\1', $str );
     $str = preg_replace( '#&[^;]+;#', '', $str );
-    
+	
+   
     return $str;
 }
 
@@ -63,9 +67,56 @@ foreach($channels as $channel) {
 }
 fputs($socket,"MODE #ETM +o $nickname \n");
 // Force an endless while
+class nickchurch {
+
+	private $score = 0;
+	private $hour = 0;
+	private $kick=0;
+	private $hour_start_t=0;
+	
+	function get_me() {
+		return $this->score;
+	}
+	function set_me() {
+		return $this->score++;
+	}
+	function get_kick() {
+		return $this->kick;
+	}
+	function set_kick() {
+		$this->kick++;
+	}
+	function get_hour() {
+		return $this->hour;
+	}
+	function set_hour($nb_second) {
+		$this->hour++;
+	}
+	function get_hour_start_t() {
+		return $this->hour_start_t;
+	}
+	function set_hour_start_t() {
+		$this->hour_start_t = date('U');
+	}
+}
 $lastnick = "";
 $state_quizz = false;
+$response_trivia = "";
+$ranking = array();
+$horaire_trivia = 0;
 while (1) {
+	
+	if($horaire_trivia) {
+		$date_now = date("U");
+		if($date_now>($horaire_trivia+30)) {
+			fputs($socket, "PRIVMSG " . $ex[2] . " :Personne n'a trouvé la bonne réponse, le temps est écoulé \n");
+			$state_quizz = false;
+			$horaire_trivia = 0;
+			fputs($socket, "PRIVMSG " . $ex[2] . " :".$trivia_anecdotes_r[$random]." \n");
+			$response_trivia = "";
+		}
+	}
+	
 	
     // Continue the rest of the script here
     while ($data = fgets($socket, 1024)) {
@@ -75,7 +126,9 @@ while (1) {
 		$matchesirc = null;
 		preg_match("/([a-zA-Z0-9_]*)![~A-Za-z0-9]*@([.0-9a-z\/]*)/",$data,$matchesirc);
 		if(count($matchesirc)>0) {
-			$lastnick = $matchesirc[1];
+			if($matchesirc[1] != $nickname) {
+				$lastnick = rtrim($matchesirc[1]);
+			}
 		}
 		
         flush();
@@ -87,17 +140,21 @@ while (1) {
 		$arg = "";
 		$t_arg = $ex;
 		unset($t_arg[0],$t_arg[1],$t_arg[2]);
-		$arg = strtolower(implode(" ", $t_arg));
+		$arg = strtolower(substr(implode(" ", $t_arg),1));
 		
         $retour = explode(':',$data);
 		if(rtrim($retour[0]) == 'PING')
 		{
 			fputs($socket,'PONG :'.$retour[1]);
 		}
+		if(rtrim($retour[0]) == 'PING')
+		{
+			fputs($socket,'PONG :'.$retour[1]);
+		}
 		if(rtrim($ex[1]) == 'JOIN')
 		{
-			$nick = rtrim($lastnick);
-			echo "nick : ".$lastnick." \r\n";
+			$nick = $lastnick;
+			echo "nick : ".$nick." \r\n";
 			fputs($socket,"PRIVMSG #ETM :Bonjour $nick ! Pas trop difficile le confinement ?\n");
 			if(preg_match('/pasteur*/', strtolower($nick))) {
 				fputs($socket,"MODE #ETM +v $nick \n");
@@ -105,14 +162,25 @@ while (1) {
 			if($nick == "Rodolphe") {
 				fputs($socket,"MODE #ETM +o $nick \n");
 			}
+			if(!isset($ranking[$nick])) {
+				$ranking[$nick] = new nickchurch();
+			}
+			$ranking[$nick]->set_hour_start_t();
 		}
 		if($ex[1] == 'KICK')
+		{
+			if($ex[3] == $nickname)
 			{
-					if($ex[3] == $nickname)
-					{
-							fputs($socket,"JOIN #ETM\r\n");
-					}
+				fputs($socket,"JOIN #ETM\r\n");
 			}
+			$ranking[$lastnick]->set_kick();
+		}
+		if($ex[1] == 'QUIT')
+		{
+			$date_now = date('U');
+			$nb_second_to_add = $date_now - $ranking[$lastnick]->get_hour_start_t() + $ranking[$lastnick]->get_hour();
+			$ranking[$lastnick]->set_hour_start_t($nb_second_to_add);
+		}
         
         // executes chat command
         if ($ex[0] != 'PING' && ISSET($ex[3])) {
@@ -126,7 +194,7 @@ while (1) {
             }
             if ($command == ":!help") {
                 fputs($socket, "PRIVMSG " . $ex[2] . " :\x02 \x0302,00 Robot #ETM à votre service !\x03 \x02 \n");
-                fputs($socket, "PRIVMSG " . $ex[2] . " :\x02 \x0302,00 !help, !quizz, !bible, !bible livre chapitre:versetDebut-versetFin, !time\x03 \x02 \n");
+                fputs($socket, "PRIVMSG " . $ex[2] . " :\x02 \x0302,00 !help, !quizz, !trivia, !me, !bible, !bible livre chapitre:versetDebut-versetFin, !time\x03 \x02 \n");
             }
 			if ($command == ":!quizz") {
 				if(!$state_quizz) {
@@ -170,6 +238,65 @@ while (1) {
 				}
 
             }
+			if(($state_quizz)&&($horaire_trivia)) {
+				$date_now = date("U");
+				$arg = implode(" ", $t_arg);
+				$response_trivia_propose = trim(substr(str_replace(" ", "", strtolower(skip_accents($arg))),1));
+				echo $response_trivia." != ".$response_trivia_propose;
+
+				$simil = similar_text ( $response_trivia , $response_trivia_propose , $perc );
+				echo "$simil $perc %";
+				if($date_now>($horaire_trivia+30)) {
+					fputs($socket, "PRIVMSG " . $ex[2] . " :Personne n'a trouvé la bonne réponse, le temps est écoulé \n");
+					$state_quizz = false;
+					$horaire_trivia = 0;
+					fputs($socket, "PRIVMSG " . $ex[2] . " :".$trivia_anecdotes_r[$random]." \n");
+					$response_trivia = "";
+					$perc = 0;
+				}
+				if($perc == 100) {
+					$state_quizz = false;
+					$horaire_trivia = 0;
+					if(!isset($ranking[$lastnick])) {
+						$ranking[$lastnick] = new nickchurch();
+					}
+					$nb_point = $ranking[$lastnick]->set_me()+1;
+					fputs($socket, "PRIVMSG " . $ex[2] . " :Félicitation " . $lastnick . ", tu as eu la bonne réponse. Tu as ".$nb_point." points \n");
+				}
+				if(($perc>=90)&&($perc<100)) {
+					fputs($socket, "PRIVMSG " . $ex[2] . " :" . $lastnick . ", tu brûles \n");					
+				}
+				if(($perc>=80)&&($perc<90)) {
+					fputs($socket, "PRIVMSG " . $ex[2] . " :Encore un ptit effort " . $lastnick . " \n");					
+				}
+				if(($perc>=70)&&($perc<80)) {
+					fputs($socket, "PRIVMSG " . $ex[2] . " :Ce n'est pas suffisant " . $lastnick . " \n");					
+				}
+				if(($perc>=20)&&($perc<40)) {
+					fputs($socket, "PRIVMSG " . $ex[2] . " :On n'ai pas prêt de trouver " . $lastnick . " \n");					
+				}
+			}
+			if ($command == ":!trivia") {
+				$state_quizz = true;
+				$horaire_trivia = date("U");
+				$number = count($trivia_anecdotes_q)-1;
+				$random = rand(0,$number);
+				$response_trivia = strtolower(skip_accents(str_replace(" ", "", $trivia_anecdotes_r[$random])));
+				fputs($socket, "PRIVMSG " . $ex[2] . " :" . $trivia_anecdotes_q[$random] . " \n");
+
+			}
+			if ($command == ":!me") {
+					if(!isset($ranking[$lastnick])) {
+						$ranking[$lastnick] = new nickchurch();
+					}
+					$date_now = date('U');
+					$nb_point = $ranking[$lastnick]->get_me();
+					$nb_hour = round($ranking[$lastnick]->get_hour()/60)+round(($date_now-$ranking[$lastnick]->get_hour_start_t())/60);
+					
+					$nb_kick = $ranking[$lastnick]->get_kick();
+					fputs($socket, "PRIVMSG " . $ex[2] . " :" .$lastnick.",tu as ".$nb_point." points. Tu as passé ".$nb_hour." minutes sur le chat. Tu as été viré ".$nb_kick." fois. \n");
+
+            }
 			if(preg_match('/botbible/', $arg)) {
 					fputs($socket, "PRIVMSG " . $ex[2] . " :\x02 \x0302,00 Je suis un robot développé par Rodolphe MOULIN. Ecrire la commande !help pour montrer tout ce que je peux réaliser\x03 \x02 \n");
 					fputs($socket, "PRIVMSG " . $ex[2] . " :\x02 \x0302,00 En écrivant la commande '!bible' cela affiche au hazard un verset publié sur Evandis.com\x03 \x02 \n");
@@ -187,12 +314,9 @@ function sendScripture($refBible) {
 	for($i=4;$i<$number_arg;$i++) {
 		$ref .= $refBible[$i]; 
 	}
-	echo $ref;
 	$ref = str_replace("&", ";", $ref);
-	echo $ref;
 	$ref = strtolower(skip_accents($ref));
 	$newref = str_replace($bookfench, $booksmall, $ref);
-	echo $newref;
 	$url = "https://getbible.net/json -d version=ls1910 -d text=$newref";
 	$datatext = shell_exec('curl -s '.$url);
 	$datatext = rtrim($datatext, ');');
